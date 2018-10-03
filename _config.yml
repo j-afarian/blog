@@ -34,3 +34,4 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
+front-page-posts: 6
