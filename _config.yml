@@ -1,54 +1,32 @@
-locale: "en-US"
-title: "Afarian - Blog" # Title of your site
-url: "https://afarianblog.netlify.com/" # the base hostname & protocol for your site
-#baseurl: /adventures
-google_analytics_key: ""
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Default description in social shares for the jekyll-seo-tag gem
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Site settings
+title: Afarian Blog
+email: jenna@afarian.me
+description: A blog website for The Afarian's.
+#baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "https://afarianblog.netlify.com" # the base hostname & protocol for your site
 
-# Author details for the jekyll-seo-tag gem
-author:
-  name: Jenna Afarian
-  email:
-  twitter: jennaafarian
+# Logo settings
+logo-image-url: images/logo.svg
+font-awesome-icon-logo:
 
-# Social details for the jekyll-seo-tag gem
-# social:
-#   name: Strata Reloaded Template
-#   links:
-#     - https://github.com/comfusion/strata-reloaded-jekyll-template
+# Social settings
+github_username: j-afarian
+twitter_username: jennaafarian
+facebook_URL: justbells
+instagram_username: bellaruns
+dribbble_username: andrewbanchich
+500px_username: jennaafarian
+phone: 555-5555
 
-permalink: pretty
+# Build settings
+markdown: kramdown
 
-gems:
-  - "jekyll-feed"
-  - "jekyll-seo-tag"
-  - "jekyll-paginate"
-  - "jekyll-sitemap"
-
-# Jekyll SEO Tag
-webmaster_verifications:
-  google: # 1234
-  bing: # 1234
-  alexa: # 1234
-  yandex: # 1234
-
-# -----------
-# CloudCannon
-
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
-  - Github
-  - Gitlab
+# Layout settings
+home-link-in-menu: yes
