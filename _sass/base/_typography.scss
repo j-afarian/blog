@@ -22,6 +22,14 @@
 		border-color:transparent;
 	}
 
+	article {
+		a {
+			&:focus {
+				color: black !important;
+			}
+		}
+	}
+
 	a {
 		@include vendor('transition', (
 			'border-bottom-color #{_duration(transition)} ease',

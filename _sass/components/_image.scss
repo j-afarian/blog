@@ -12,10 +12,6 @@
 			display: block;
 		}
 
-		&:focus {
-			border: 1px solid black;
-		}
-
 		&.left,
 		&.right {
 			max-width: 40%;
