@@ -54,6 +54,11 @@
 			box-shadow: inset 0 0 0 (_size(border-width) * 2) _palette(accent1);
 		}
 
+		&:focus {
+			color: _palette(accent1) !important;
+			box-shadow: inset 0 0 0 (_size(border-width) * 2) _palette(accent1);
+		}
+
 		&:active {
 			background-color: transparentize(_palette(accent1), 0.9);
 		}
@@ -72,6 +77,10 @@
 			color: _palette(bg) !important;
 
 			&:hover {
+				background-color: _palette(accent1);
+			}
+
+			&:focus {
 				background-color: _palette(accent1);
 			}
 

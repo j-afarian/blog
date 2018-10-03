@@ -43,6 +43,11 @@
 				border-color: _palette(accent1);
 			}
 
+			&:focus {
+				color: _palette(accent1);
+				border-color: _palette(accent1);
+			}
+
 			&:active {
 				background-color: transparentize(_palette(accent1), 0.9);
 			}

@@ -110,6 +110,16 @@
 								opacity: 0;
 							}
 						}
+
+						&:focus {
+							&:before {
+								opacity: 1;
+							}
+
+							&:after {
+								opacity: 0;
+							}
+						}
 					}
 				}
 			}

@@ -106,6 +106,10 @@
 					color: _palette(fg-accent) !important;
 				}
 
+				&:focus {
+					color: _palette(fg-accent) !important;
+				}
+
 				h2 {
 					margin: 0;
 				}
@@ -256,4 +260,3 @@
 			}
 		}
 	}
-
