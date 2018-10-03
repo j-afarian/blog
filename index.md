@@ -10,3 +10,5 @@ it'll probably just be a bunch of photos of my dog.</h1>
 </header>
 
 {% include tiles.html %}
+
+<a href="https://afarianblog.netlify.com/all.html">View All Posts</a>
