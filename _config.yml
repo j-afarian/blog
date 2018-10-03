@@ -10,7 +10,7 @@ title: Afarian Blog
 email: jenna@afarian.me
 description: A blog website for The Afarian's.
 #baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://afarianblog.netlify.com" # the base hostname & protocol for your site
+url: "https://blog.afarian.me" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
