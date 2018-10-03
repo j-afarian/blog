@@ -187,6 +187,26 @@
 						opacity: 1;
 					}
 				}
+
+				&:focus {
+					> .image {
+						@include vendor('transform', 'scale(1.1)');
+
+						&:before {
+							background-color: _palette(bg-accent);
+							opacity: 0.35;
+						}
+
+						&:after {
+							opacity: 0;
+						}
+					}
+
+					.content {
+						max-height: 15em;
+						opacity: 1;
+					}
+				}
 			}
 		}
 
@@ -242,6 +262,12 @@
 				margin: $gutter 0 0 $gutter;
 
 				&:hover {
+					> .image {
+						@include vendor('transform', 'scale(1.0)');
+					}
+				}
+
+				&:focus {
 					> .image {
 						@include vendor('transform', 'scale(1.0)');
 					}
