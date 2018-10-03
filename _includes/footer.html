@@ -27,16 +27,19 @@
 			<h2>Follow</h2>
 			<ul class="icons">
 				{% if site.twitter_username %}
-				<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fab fa-Twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fab fa-twitter"><span class="label">Twitter</span></a></li>
+				{% endif %}
+				{% if site.mastodon_username %}
+				<li><a href="https://www.mstdn.io/@{{ site.mastodon_username }}" class="icon style2 fab fa-mastodon"><span class="label">Mastodon</span></a></li>
+				{% endif %}
+				{% if site.linkedin_username %}
+				<li><a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="icon style2 fab fa-linkedin"><span class="label">Linkedin</span></a></li>
+				{% endif %}
+				{% if site.gitlab_username %}
+				<li><a href="https://gitlab.com/{{ site.gitlab_username }}" class="icon style2 fab fa-gitlab"><span class="label">Gitlab</span></a></li>
 				{% endif %}
 				{% if site.github_username %}
 				<li><a href="https://github.com/{{ site.github_username }}" class="icon style2 fab fa-github"><span class="label">GitHub</span></a></li>
-				{% endif %}
-				{% if site.gitlab_username %}
-				<li><a href="https://gitlab.com/{{ site.gitlab_username }}" class="icon style2 fab fa-gitlab"><span class="label">GitHub</span></a></li>
-				{% endif %}
-				{% if site.mastodon_username %}
-				<li><a href="https://www.mstdn.io/@{{ site.mastodon_username }}" class="icon style2 fab fa-mastodon"><span class="label">Facebook</span></a></li>
 				{% endif %}
 				{% if site.facebook_URL %}
 				<li><a href="{{ site.facebook_URL }}" class="icon style2 fab fa-facebook"><span class="label">Facebook</span></a></li>
@@ -44,12 +47,20 @@
 				{% if site.instagram_username %}
 				<li><a href="https://www.instagram.com/{{ site.instagram_username }}" class="icon style2 fab fa-instagram"><span class="label">Instagram</span></a></li>
 				{% endif %}
+				{% if site.codepen_username %}
+				<li><a href="https://codepen.io/{{ site.codepen_username }}" class="icon style2 fab fa-codepen"><span class="label">Codepen</span></a></li>
+				{% endif %}
+				{% if site.stackoverflow_username %}
+				<li><a href="https://stackoverflow.com/users/{{ site.stackoverflow_username }}" class="icon style2 fab fa-stack-overflow"><span class="label">Stack Overflow</span></a></li>
+				{% endif %}
+				{% if site.discord_URL %}
+				<li><a href="{{ site.discord_URL }}" class="icon style2 fab fa-discord"><span class="label">Discord</span></a></li>
+				{% endif %}
 			</ul>
 		</section>
 		<ul class="copyright">
-			<li>&copy; {{ site.title }}. All rights reserved</li>
-			<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-			<li>Jekyll integration: <a href="http://andrewbanchi.ch">Andrew Banchich</a></li>
+			<li>&copy; {{ site.title }}</li>
+			<li>Photography: <a href="#">Unplash</a></li>
 		</ul>
 	</div>
 </footer>
