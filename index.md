@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Home
+title: Afarian Blog
 ---
 
 <header>
-<h1>This is Phantom, a free, fully responsive site<br />
-template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
-<p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+<h1>This is a blog, well - that's the plan,<br>
+it'll probably just be a bunch of photos of my dog.</h1>
+<p>I'm Jenna Afarian, commonly known as Bella. I like to tinker with tech, travel, explore, eat, and go to the gym. I got married to a pretty cool guy in Vegas, we live in Brisbane with our cockatiel and chihuahua babies. I'm obsessed with video games and books.</p>
 </header>
 
 {% include tiles.html %}
