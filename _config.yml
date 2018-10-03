@@ -19,11 +19,10 @@ font-awesome-icon-logo:
 # Social settings
 github_username: j-afarian
 twitter_username: jennaafarian
-facebook_URL: justbells
+facebook_URL: https://facebook.com/justbells
 instagram_username: bellaruns
-dribbble_username: andrewbanchich
-500px_username: jennaafarian
-phone: 555-5555
+gitlab_username: afarian
+mastodon_username: @afarian
 
 # Build settings
 markdown: kramdown
