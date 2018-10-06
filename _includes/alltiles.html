@@ -1,9 +1,11 @@
 <section class="tiles">
 
+{% assign count = 0 %}
 {% for post in site.posts %}
-	<article class="style{{ forloop.index | plus:1 }}">
+{% assign count = count | plus:1 %}
+	<article class="style{{ count }}">
 		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+			<img src="{{ site.url }}{{ site.baseurl }}/images/pic08.jpg" alt="" />
 		</span>
 		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ post.title }}</h2>
@@ -12,6 +14,7 @@
 			</div>
 		</a>
 	</article>
+	{% if count == 6 %}{% assign count = 0 %}{% endif %}
 {% endfor %}
 
 </section>
