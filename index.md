@@ -13,4 +13,4 @@ it'll probably just be a bunch of photos of my dog.</h1>
 
 <br><br>
 
-<center><p><a href="https://afarianblog.netlify.com/all.html">View All Posts</a></p></center>
+<center><p><a href="{{ site.baseurl }}/all.html" class="logo">View All Posts</a></p></center>
