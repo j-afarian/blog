@@ -14,7 +14,7 @@ url: "https://blog.afarian.me" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
-font-awesome-icon-logo:
+font-awesome-icon-logo: fas fa-feather
 
 # Social settings
 github_username: j-afarian
