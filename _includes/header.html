@@ -10,7 +10,7 @@
 
 					{% if site.font-awesome-icon-logo %}
 
-					<div href="#" class="icon style1 {{ site.font-awesome-icon-logo }}"></div>
+					<div href="#" class="icon style1"><i class="{{ site.font-awesome-icon-logo }}"></i></div>
 
 					{% else %}
 
@@ -21,12 +21,13 @@
 				</span><span class="title">{{ site.title }}</span>
 			</a>
 			<!-- Nav -->
-			<nav>
+			<!-- <nav>
 				<ul>
 					<li><a href="#menu">Menu</a></li>
 				</ul>
-			</nav>
 
+			</nav>
+			{% include menu.html %} -->
 		</div>
 	</header>
 
