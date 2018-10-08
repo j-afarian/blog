@@ -10,7 +10,12 @@
     <h2>{{ page.title }}</h2> {% if page.featured-image %}
     <span class="image main">
       <img src="{{ page.featured-image }}" alt="">
-    </span> {% endif %} {{ content }} {% include footer.html %}
+    </span> {% endif %} {{ content }}
+
+
+<center><p><a href="{{ site.baseurl }}" class="logo">Return to homepage</a></p></center>
+
+    {% include footer.html %}
 
 
 </body>
