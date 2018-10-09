@@ -4,6 +4,7 @@
 {% assign countpic = 0 %}
 {% for post in site.posts %}
 {% assign count = count | plus:1 %}
+{% assign countpic = countpic | plus:1 %}
 	<article class="style{{ count }}">
 		<span class="image">
 			<img src="{{ site.url }}{{ site.baseurl }}/images/wedding0{{ countpic }}.png" alt="" />
