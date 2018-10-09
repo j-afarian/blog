@@ -10,7 +10,7 @@ var disqus_shortname = "afarian";
 var disqus_url = "https://blog.afarian.me{{ page.url }}";
 
 // Put the permalink of your web page / blog post
-var disqus_identifier = "{{ page.id }}"; 
+var disqus_identifier = "{{ page.id }}";
 
 var disqus_loaded = false;
 
@@ -45,31 +45,37 @@ function disqus() {
       <img src="{{ page.featured-image }}" alt="">
     </span> {% endif %} {{ content }}
 
-<br><br>
-<center><p><a href="{{ site.baseurl }}/" class="logo">Return to homepage</a></p></center>
+<br>
+<center>
+  
+{% if page.comments %}
+<div id="disqus_thread">
+  <ul class="actions">
+  <li><a href="#" class="button" onclick="disqus();return false;">Show Comments</a></li>
+  </ul>
+</div>
+  <!-- <script>
 
-  {% if page.comments %}
-  <div id="disqus_thread">
-    <a href="#" onclick="disqus();return false;">Show Comments</a>
-  </div>
-    <!-- <script>
+  var disqus_config = function () {
+  this.page.url = "https://blog.afarian.me{{ page.url }}";
+  this.page.identifier = "{{ page.id }}";
+  };
 
-    var disqus_config = function () {
-    this.page.url = "https://blog.afarian.me{{ page.url }}";
-    this.page.identifier = "{{ page.id }}";
-    };
-
-    (function() {
-    var d = document, s = d.createElement('script');
-    s.src = 'https://afarian.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-    </script>
+  (function() {
+  var d = document, s = d.createElement('script');
+  s.src = 'https://afarian.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
 
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
 
 {% endif %}
+
+<p><a href="{{ site.baseurl }}/" class="logo">Return to homepage</a></p></center>
+
+
 
 
     {% include footer.html %}
