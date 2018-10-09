@@ -45,7 +45,6 @@
 					@include vendor('transition', (
 						'background-color #{$duration} #{$ease}',
 						'opacity #{$duration} #{$ease}'
-						-webkit-backface-visibility: hidden;
 					));
 					content: '';
 					display: block;
