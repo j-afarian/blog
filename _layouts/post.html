@@ -40,14 +40,17 @@ function disqus() {
 
     {% include header.html %}
 
-    <h2>{{ page.title }}</h2> {% if page.featured-image %}
-    <span class="image main">
-      <img src="{{ page.featured-image }}" alt="">
-    </span> {% endif %} {{ content }}
+    <h2>{{ page.title }}</h2>
+     {{ content }}
 
+     <span class="datetags"><b>Last updated:</b> {{ page.date | date_to_long_string }}<br>
+       {% if page.tags.size > 0 %}
+   <b>Tag{% if page.tags.size > 1 %}s{% endif %}:</b>
+   {{ page.tags | sort | join: ", " }}
+ {% endif %}</span>
 <br>
 <center>
-  
+
 {% if page.comments %}
 <div id="disqus_thread">
   <ul class="actions">
