@@ -36,4 +36,4 @@ markdown: kramdown
 home-link-in-menu: yes
 front-page-posts: 6
 excerpt_separator: <!-- more -->
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title/
