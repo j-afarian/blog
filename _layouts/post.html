@@ -41,14 +41,14 @@ function disqus() {
     {% include header.html %}
 
     <h2>{{ page.title }}</h2>
+    <span class="datetags"><b>Last updated:</b> {{ page.date | date_to_long_string }}<br>
+      {% if page.tags.size > 0 %}
+    <b>Tag{% if page.tags.size > 1 %}s{% endif %}:</b>
+    {{ page.tags | sort | join: ", " }}
+    {% endif %}</span
      {{ content }}
 
-     <span class="datetags"><b>Last updated:</b> {{ page.date | date_to_long_string }}<br>
-       {% if page.tags.size > 0 %}
-   <b>Tag{% if page.tags.size > 1 %}s{% endif %}:</b>
-   {{ page.tags | sort | join: ", " }}
- {% endif %}</span>
-<br>
+
 <center>
 
 {% if page.comments %}
@@ -76,7 +76,8 @@ function disqus() {
 
 {% endif %}
 
-<p><a href="{{ site.baseurl }}/" class="logo">Return to homepage</a></p></center>
+<p><a href="{{ site.baseurl }}/" class="logo">Return to homepage</a></p>
+</center>
 
 
 
