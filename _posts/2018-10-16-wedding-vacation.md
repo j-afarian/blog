@@ -7,19 +7,11 @@ tags: [Japan, USA, Travel, Wedding, Vacation]
 ---
 <span class="image left"><img src="/images/wedding/japan-s01.png" alt="Jenna eating a japanese sweet roll" /></span>In mid 2017 my soon-to-be husband and I visited 8 cities & towns across Japan and The United States during our *wedding vacation*. We were both in agreement that spending an exorbitant amount of money on a single day wasn't the direction we wanted to go in, and coupled with my ever-growing anxiety, we decided to keep it small and exciting.
 
-The itinerary was as follows:
-1. Tokyo
-2. Kyoto
-3. Hiroshima
-4. Santa Monica
-5. Las Vegas
-6. Death Valley
-7. Yosemite (Half Dome Village)
-8. San Francisco
+Starting in early June we flew in to Japan and began 10 days of temples, shrines, gardens, and sprawling cities filled with life at all hours. We spent our days visiting cultural sites, eating delicious street food, experiencing the wild deer, and getting lost in the expansive shopping district of Shibuya. At night we hopped through the tiny bars found in Golden Gai, each one seating anywhere from 4-8 people, went clubbing, and did an amazing bar crawl.
 
-Starting in early June we flew in to Japan and began 10 days of temples, shrines, gardens, and sprawling cities filled with life at all hours. We spent our days visiting cultural sites, eating delicious street food, and getting lost in the expansive shopping district of Shibuya. At night we hopped through the tiny bars found in Golden Gai, each one seating anywhere from 4-8 people.
+There were so many amazing places, but the ones listed below were some of my favorites.
 
-**9 must-see places in Japan**
+**9 must-see places in Japan**  
 - Golden Gai (Tokyo)
 - Shibuya Crossing (Tokyo)
 - Sensō-ji (Tokyo)
