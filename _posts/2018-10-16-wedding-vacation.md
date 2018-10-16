@@ -11,7 +11,7 @@ Starting in early June we flew in to Japan and began 10 days of temples, shrines
 
 There were so many amazing places, but the ones listed below were some of my favorites.
 
-**9 must-see places in Japan**  
+<h3>9 must-see places in Japan</h3>
 - Golden Gai (Tokyo)
 - Shibuya Crossing (Tokyo)
 - Sensō-ji (Tokyo)
