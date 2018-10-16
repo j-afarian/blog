@@ -35,9 +35,17 @@ There were so many amazing places, but the ones listed below were some of my fav
 
 From Japan we flew to The United States. Landing in LAX is always an adventure of it's own, but we eventually made it through and checked in to our hotel down in Santa Monica. It was here that most of our family met up with us in anticipation for the wedding day, and we spent a few days exploring and visiting family who live in Los Angeles before heading off to Las Vegas.
 
-<span class="image right"><img src="/images/wedding/japan-s01.png" alt="Jenna eating a japanese sweet roll" /></span>Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress.
-Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress.
+<span class="image right"><img src="/images/wedding/vegas-s02.png" alt="You may now kiss the bride - wedding photo" /></span>Yep, we got married in Las Vegas. On Monday the 26th of June at 10am, we headed off to the Chapel of the Flowers on Las Vegas Boulevard. Surrounded by family and friends we got fake married. Uh-huh, that's right. We were enjoying ourselves so much in Vegas that we both forgot to go pick up our marriage license the day before!! We had a pretend ceremony in front of everyone before frantically dashing downtown to pick up our license and sign the papers with the chapel afterwards. Oops!
 
-Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress.
+Aside from that *little* hiccup, it was a fantastic day. We enjoyed a gorgeous Italian lunch at [Maggiano's](https://www.maggianos.com/) before heading back to a Skyline Suite at MGM Grand where we drank the rest of the evening away.
 
-Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. 
+<div class="box alt">
+<div class="row uniform">
+<div class="4u"><span class="image fit"><img src="/images/wedding/vegas01.png" alt="Jenna and Paul walking down the isle" /></span></div>
+<div class="4u"><span class="image fit"><img src="/images/wedding/vegas02.png" alt="Jenna and Paul pre-wedding selfie" /></span></div>
+<div class="4u$"><span class="image fit"><img src="/images/wedding/vegas03.png" alt="Family in front of the Las Vegas sign" /></span></div>
+<div class="4u"><span class="image fit"><img src="/images/wedding/vegas04.png" alt="Jenna and Paul in front of the Las Vegas sign" /></span></div>
+<div class="4u"><span class="image fit"><img src="/images/wedding/vegas05.png" alt="Family wedding photo" /></span></div>
+<div class="4u$"><span class="image fit"><img src="/images/wedding/vegas06.png" alt="Family at the grand canyon" /></span></div>
+</div>
+</div>
