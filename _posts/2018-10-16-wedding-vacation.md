@@ -32,3 +32,12 @@ There were so many amazing places, but the ones listed below were some of my fav
 <div class="4u$"><span class="image fit"><img src="/images/wedding/japan07.png" alt="Paul taking a photo at Senso-ji" /></span></div>
 </div>
 </div>
+
+From Japan we flew to The United States. Landing in LAX is always an adventure of it's own, but we eventually made it through and checked in to our hotel down in Santa Monica. It was here that most of our family met up with us in anticipation for the wedding day, and we spent a few days exploring and visiting family who live in Los Angeles before heading off to Las Vegas.
+
+<span class="image right"><img src="/images/wedding/japan-s01.png" alt="Jenna eating a japanese sweet roll" /></span>Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress.
+Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress.
+
+Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress.
+
+Placeholder text for Las Vegas trip. Draft, work in progress. Placeholder text for Las Vegas trip. Draft, work in progress. 
