@@ -63,7 +63,7 @@ From Las Vegas we headed off on our own and drove to Death Valley, the next stop
 
 Driving through the desert was an experience, the vastness of it all, and the *heat*! At 49°C/120°F walking more than a few steps from the car to the view points was exhausting.
 
-We stayed the night at [Stovepipe Wells](https://deathvalleyhotels.com/) before heading out the next morning to Half Dome Village via Tioga Pass. Oh - my - god. Coming into Yosemite was the most beautiful drive I've ever experienced. The air temperature dropped significantly, there was *ice* floating in the rivers and snow on the mountains and hills.
+We stayed the night at [Stovepipe Wells](https://deathvalleyhotels.com/) before heading out the next morning to Half Dome Village via Tioga Pass. Oh - my - god. Coming into Yosemite was the most beautiful drive I've ever experienced. The air temperature dropped significantly, there was *ice* floating in the rivers, and snow on the mountains and hills.
 
 Needless to say, the drive in took much longer than it should have as we couldn't help but stop *almost everywhere* to get out, soak in the breath taking view, and snap a few photos.
 
