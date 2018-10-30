@@ -5,6 +5,9 @@ title:  "5 things to do after installing Elementary OS"
 categories: Linux
 tags: [Linux, Elementary OS, Operating System, tweaks, to-do]
 ---
+<div class="box alt"><div class="row uniform">
+<div class="12u$"><span class="image fit"><img src="/images/tech/eos.png" alt="Elementary OS Logo" /></span></div>
+</div></div>
 If you've made the decision to install Elementary OS Juno (5.0), here are a few things you can do to make sure you're getting the most out of your new operating system.
 
 ### 1. Enable PPA
