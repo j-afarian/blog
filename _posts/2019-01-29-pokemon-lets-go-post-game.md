@@ -36,7 +36,7 @@ You can purchase Mega Stones for other Pokemon from the dude in the Slowbro trac
 ### 5. Go shiny hunting
 Catch shiny versions of your favorite Pokemon. To increase your chances of encountering a rare shiny, you should first complete your Pokedex to receive the Shiny Charm, use lures, and maintain a catch combo of 31+.
 <div class="box alt"><div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="https://cdn.mos.cms.futurecdn.net/EsUPpfVztWRF83w8uy2KQV-320-80.jpg" alt="Shiny Pokemon" /></span></div>
+<div class="6u$" style="text-align: center;"><span class="image fit"><img src="https://cdn.mos.cms.futurecdn.net/EsUPpfVztWRF83w8uy2KQV-320-80.jpg" alt="Shiny Pokemon" /></span></div>
 </div></div>
 
 ### 6. Chain catch Chansey's for EXP
